@@ -578,7 +578,6 @@ html {
     position: absolute;
     top: 2.2rem;
     left: 0.5rem;
-    display: none;
 }
 .slide4 #img2{
     width: 3rem;
@@ -588,17 +587,14 @@ html {
     position: absolute;
     top: 7.2rem;
     left: 2.5rem;
-    display: none;
 }
 #page4 #img1{
     animation:rotateIn 1.2s linear 0.3s both;
     -webkit-animation:rotateIn 1.2s linear 0.3s both;
-    display: block;
 }
 #page4 #img2{
     animation:rotateIn 1.2s linear 0.2s both;
     -webkit-animation:rotateIn 1.2s linear 0.2s both;
-    display: block;
 }
 .slide4 h1{
     position: relative;
